@@ -1,7 +1,7 @@
 # Clima-App
 ## Clima App Web con API de OpenWeather
 
-![imagen](link.jpg)
+![imagen](https://i.imgur.com/Q55OFWd.png)
 
 ### Como Funciona?
 
